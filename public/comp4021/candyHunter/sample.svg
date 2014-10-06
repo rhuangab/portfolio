@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="800px" height="600px"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xhtml="http://www.w3.org/1999/xhtml"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:a="http://www.adobe.com/svg10-extensions" a:timeline="independent"
+     onload="top.load(evt)">
+
+  <g id="monster">
+	  <path d="M0,30 q0,-30 20,-30 t20,30 l0,10 
+			   l-5,-7 l-5,7 l-5,-7 l-5,7 l-5,-7 l-5,7 l-5,-7 l-5,7 l0,-10"
+			style="fill:gray;fill-opacity:0.5;stroke:black;stroke-width:2"/>
+	  <circle cx="12" cy="20" r="5"
+			  style="fill:yellow;stroke:black;stroke-width:2">
+		<animateColor attributeName="fill" values="yellow;red;yellow"
+					  dur="1s" repeatCount="indefinite"/>
+	  </circle>
+	  <circle cx="28" cy="20" r="5"
+			  style="fill:yellow;stroke:black;stroke-width:2">
+		<animateColor attributeName="fill" values="yellow;red;yellow"
+					  dur="1s" repeatCount="indefinite"/>
+	  </circle>
+	</g>
+</svg>

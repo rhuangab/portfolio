@@ -1,0 +1,22 @@
+<?xml version="1.0"?><svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+ <title/>
+ <g id="platform1">
+ <g transform="scale(0.05)">
+  <title>Layer 1</title>
+  <path d="m47.124001,7.23148c-22.0058,0 -39.893991,17.86222 -39.893991,39.815921l0,305.778587c0,22.028015 17.88819,39.943024 39.893991,39.943024l305.778008,0c22.005005,0 39.867981,-17.915009 39.867981,-39.943024l0,-305.778587c0,-21.953701 -17.862976,-39.815921 -39.867981,-39.815921l-305.778008,0z" stroke-width="13" stroke="#000000" fill="url(#svg_12)" id="svg_3"/>
+  <g id="svg_16">
+   <rect ry="21" rx="21" height="119" width="33" y="100" x="143.75" stroke-width="13" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" id="svg_13"/>
+   <rect ry="21" rx="21" height="119" width="33" y="100" x="223.25" stroke-width="13" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" id="svg_15"/>
+  </g>
+  <rect ry="21" rx="21" height="18.0303" width="5" y="110.243" x="151.5" stroke-width="13" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#ffffff" fill="#ffffff" id="svg_17"/>
+  <rect ry="21" rx="21" height="18.0303" width="5" y="110.243" x="230.5" stroke-width="13" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#ffffff" fill="#ffffff" id="svg_18"/>
+  <ellipse ry="24" rx="24" cy="300" cx="200" stroke-width="13" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" id="svg_21"/>
+ </g>
+ <defs>
+  <linearGradient y2="0" x2="1" y1="0" x1="0" id="svg_12">
+   <stop offset="0.003906" stop-opacity="0.980469" stop-color="#ffffff"/>
+   <stop offset="1" stop-opacity="0.984375" stop-color="#ffaff1"/>
+  </linearGradient>
+ </defs>
+ </g>
+</svg>

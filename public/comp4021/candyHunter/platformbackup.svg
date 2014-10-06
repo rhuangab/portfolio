@@ -1,0 +1,75 @@
+<!-- left up -->
+<rect x="0" y="60" width="60" height="20" style="fill:red"/>
+<rect x="40" y="80" width="20" height="20" style="fill:red"/>
+<rect x="40" y="100" width="480" height="20" style="fill:red"/>
+<rect x="60" y="120" width="20" height="20" style="fill:red"/>
+<rect x="220" y="120" width="40" height="40" style="fill:red"/>
+<rect x="200" y="160" width="80" height="20" style="fill:red"/>
+
+<!-- right up -->
+<rect x="560" y="140" width="40" height="20" style="fill:red"/>
+<rect x="540" y="160" width="60" height="20" style="fill:red"/>
+<rect x="520" y="180" width="80" height="20" style="fill:red"/>
+
+<!-- left second up -->
+<rect x="0" y="180" width="20" height="40" style="fill:red"/>
+<rect x="0" y="220" width="160" height="20" style="fill:red"/>
+<rect x="80" y="200" width="40" height="20" style="fill:red"/>
+<rect x="100" y="180" width="20" height="20" style="fill:red"/>
+
+<!-- middle left second -->
+<rect x="380" y="180" width="20" height="20" style="fill:red"/>
+<rect x="360" y="200" width="80" height="20" style="fill:red"/>
+<rect x="320" y="220" width="140" height="20" style="fill:red"/>
+<rect x="340" y="240" width="160" height="20" style="fill:red"/>
+
+<!-- middle second -->
+<rect x="240" y="240" width="20" height="20" style="fill:red"/>
+<rect x="220" y="260" width="60" height="20" style="fill:red"/>
+<rect x="200" y="280" width="100" height="20" style="fill:red"/>
+<rect x="120" y="300" width="100" height="20" style="fill:red"/>
+<rect x="280" y="300" width="40" height="40" style="fill:red"/>
+<rect x="320" y="320" width="20" height="60" style="fill:red"/>
+
+<!-- middle right third -->
+<rect x="380" y="320" width="20" height="60" style="fill:red"/>
+<rect x="400" y="340" width="40" height="40" style="fill:red"/>
+<rect x="440" y="360" width="60" height="20" style="fill:red"/>
+
+<!-- right second up -->
+<rect x="560" y="280" width="40" height="20" style="fill:red"/>
+<rect x="500" y="300" width="100" height="20" style="fill:red"/>
+
+<!-- left third up -->
+<rect x="0" y="320" width="40" height="20" style="fill:red"/>
+<rect x="0" y="340" width="60" height="20" style="fill:red"/>
+<rect x="0" y="360" width="120" height="20" style="fill:red"/>
+<rect x="0" y="380" width="100" height="20" style="fill:red"/>
+
+<!-- middle third  -->
+<rect x="220" y="380" width="20" height="20" style="fill:red"/>
+<rect x="180" y="400" width="80" height="20" style="fill:red"/>
+<rect x="160" y="420" width="140" height="20" style="fill:red"/>
+<rect x="140" y="440" width="100" height="20" style="fill:red"/>
+<rect x="120" y="460" width="60" height="20" style="fill:red"/>
+
+<!-- middle right third -->
+<rect x="440" y="440" width="20" height="20" style="fill:red"/>
+<rect x="400" y="460" width="60" height="20" style="fill:red"/>
+<rect x="380" y="480" width="60" height="20" style="fill:red"/>
+
+<!-- right third -->
+<rect x="580" y="380" width="20" height="20" style="fill:red"/>
+<rect x="560" y="400" width="40" height="20" style="fill:red"/>
+<rect x="540" y="420" width="60" height="20" style="fill:red"/>
+<rect x="500" y="440" width="60" height="20" style="fill:red"/>
+
+<!-- buttom -->
+<rect x="0" y="480" width="40" height="20" style="fill:red"/>
+<rect x="0" y="500" width="60" height="20" style="fill:red"/>
+<rect x="0" y="520" width="80" height="20" style="fill:red"/>
+<rect x="0" y="540" width="600" height="20" style="fill:red"/>
+<rect x="140" y="520" width="20" height="20" style="fill:red"/>
+<rect x="240" y="520" width="80" height="20" style="fill:red"/>
+<rect x="500" y="520" width="20" height="20" style="fill:red"/>
+<rect x="260" y="500" width="20" height="20" style="fill:red"/>
